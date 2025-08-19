@@ -53,7 +53,7 @@ Publishing dashboards to Power BI Service for public access
 
 ![Dashboard for Batting](./images/Batting.png)
 ![Dashboard for Bowling](./images/Bowling.png)
-![Dashboard for Feilding](/images/Fielding.png)
+![Dashboard for Fielding](./images/Fielding.png)
 
 ## 🏆 About the Author
 
