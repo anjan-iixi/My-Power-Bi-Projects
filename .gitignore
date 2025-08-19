@@ -1,0 +1,18 @@
+# --------------------------
+# Power BI Projects .gitignore
+# --------------------------
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Power BI temporary & backup files
+*.tmp
+*.bak
+*.pbix~*
+
+# Common unwanted files
+~$*
