@@ -73,7 +73,7 @@ Explore and customize the dashboard as needed.
 
 ## 🔖 License
 
-This repository is licensed under the [MIT License](./LICENSE)
+This repository is licensed under the ![MIT License](./LICENSE)
 .
 
 ⚠️ Note: The cricket match data used in this project was sourced from **ESPN Cricket**.
